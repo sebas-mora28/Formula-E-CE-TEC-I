@@ -3,7 +3,7 @@
 
 ### Versión de Python
 
-La versión de Python durante la elaboración de este proyecto es la 3.7.2
+Python v.3.7.2 es la utilizada en la elaboración de este proyecto.
 
 
 ## Archivos del proyecto 
