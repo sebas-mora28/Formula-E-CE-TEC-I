@@ -14,9 +14,10 @@ Python v.3.7.2 es la utilizada en la elaboración de este proyecto.
 
 ## Documentación del proyecto
 
-Encuentre en el siguiente link toda la documentación relacionada con el proyectp 
+Encuentre en el siguiente link toda la documentación relacionada con el proyecto
 
-* 
+* https://1drv.ms/f/s!AhSq2J7a9CFx9wp0yKUWT9QH4UC5
+
 
 ## Consideracion
 
