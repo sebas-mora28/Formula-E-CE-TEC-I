@@ -1,6 +1,21 @@
 # PROYECTO-II
 
 
+##Información 
+
+Tecnólogico de Costa Rica 
+
+Taller de Programación, I semestre 2019
+
+Estudiantes: 
+Sebastian Mora Godínez
+Santiago Brenes Torres
+
+Profesor:
+Pedro Gutiérrez García
+
+
+
 ### Versión de Python
 
 Python v.3.7.2 es la utilizada en la elaboración de este proyecto.
