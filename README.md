@@ -8,11 +8,12 @@ Tecnólogico de Costa Rica
 Taller de Programación, I semestre 2019
 
 Estudiantes: 
-Sebastian Mora Godínez
-Santiago Brenes Torres
+
+Sebastian Mora Godínez.
+Santiago Brenes Torres.
 
 Profesor:
-Pedro Gutiérrez García
+Pedro Gutiérrez García.
 
 
 
@@ -31,7 +32,7 @@ Python v.3.7.2 es la utilizada en la elaboración de este proyecto.
 
 Encuentre en el siguiente link toda la documentación relacionada con el proyecto
 
-[Documentacion](https://1drv.ms/f/s!AhSq2J7a9CFx9wp0yKUWT9QH4UC5)
+[Documentacion del proyecto](https://1drv.ms/f/s!AhSq2J7a9CFx9wp0yKUWT9QH4UC5)
 
 
 ## Consideracion
