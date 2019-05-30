@@ -10,9 +10,11 @@ Taller de Programación, I semestre 2019
 Estudiantes: 
 
 Sebastian Mora Godínez.
+
 Santiago Brenes Torres.
 
 Profesor:
+
 Pedro Gutiérrez García.
 
 
