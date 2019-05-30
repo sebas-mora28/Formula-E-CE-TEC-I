@@ -1,7 +1,7 @@
 # PROYECTO-II
 
 
-##Información 
+## Información 
 
 Tecnólogico de Costa Rica 
 
