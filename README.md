@@ -7,13 +7,13 @@ Tecnólogico de Costa Rica
 
 Taller de Programación, I semestre 2019
 
-**Estudiantes: 
+**Estudiantes:** 
 
 Sebastian Mora Godínez.
 
 Santiago Brenes Torres.
 
-**Profesor:
+**Profesor:**
 
 Pedro Gutiérrez García.
 
