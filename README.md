@@ -10,7 +10,7 @@ Python v.3.7.2 es la utilizada en la elaboración de este proyecto.
  
  Encuentre en el siguiente link todos los archivos necesarios del proyecto
  
- * https://github.com/sebas-mora28/PROYECTO-I
+ * https://github.com/sebas-mora28/PROYECTO-II
 
 ## Documentación del proyecto
 
