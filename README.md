@@ -37,7 +37,7 @@ Encuentre en el siguiente link toda la documentación relacionada con el proyect
 [Documentacion del proyecto](https://1drv.ms/f/s!AhSq2J7a9CFx9wp0yKUWT9QH4UC5)
 
 
-## Consideracion
+## Consideración
 
 Asegúrese cambiar la red Wi-Fi tanto en el código de arduino como en el Wi-Fi client. 
 
